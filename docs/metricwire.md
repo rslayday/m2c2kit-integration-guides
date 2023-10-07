@@ -23,7 +23,7 @@ This documentation page contains an implementation guide for using Metricwire.
 5. Enter URL you received from our documentation or Project Coordinator. Make sure to modify URL to include magic params that inject identifiers from Metricwire:
 
 `|*studyId*|` = Study Identifier
-`|*userId*|` = Participant Identifier
+`|*participantUserId*|` = Participant Identifier
 `|*submissionSessionId*|` = Session Identifier
 
 For example:
