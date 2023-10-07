@@ -21,7 +21,7 @@ https://www.qualtrics.com/support/survey-platform/survey-module/survey-tools/imp
 
 2. Once imported - make sure to modify the `Embedded Data` fields on the Qualtrics Survey Flow in order to create a unique `STUDY_ID` and `M2C2KIT_API_KEY`. We recommend using a UUID for the `M2C2KIT_API_KEY`. You can generate a UUID using online tools, e.g., https://www.uuidgenerator.net/api/version4 
 
-![Annotated screenshot for Qualtrics Embedded Data changes](docs/Qualtrics_template_m2c2kit.png "Annotated screenshot for Qualtrics Embedded Data changes")
+![Annotated screenshot for Qualtrics Embedded Data changes](qualtrics_template_m2c2kit.png "Annotated screenshot for Qualtrics Embedded Data changes")
 
 3. Thereafter, add your questions above/below the block containing the cognitive tasks.
 
