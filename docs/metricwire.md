@@ -25,7 +25,7 @@ SCREENSHOT
 `|*submissionSessionId*|` = Session Identifier
 
 For example:
-[https://api.m2c2kit.com/m2c2kit/nt/index.html?activity_name=symbol-search&study_id=demo&api_key=demo&number_of_trials=1|int&participant_id=None&session_id=05222d55-bc87-4c30-b756-c70ac9e62955&admin_type=metricwire](https://api.m2c2kit.com/m2c2kit/nt/index.html?activity_name=symbol-search&study_id=demo&api_key=demo&numb6er_of_trials=1|int&participant_id=None&session_id=05222d55-bc87-4c30-b756-c70ac9e62955&admin_type=metricwire)
+[https://api.m2c2kit.com/m2c2kit/nt/index.html?activity_name=symbol-search&study_id=demo&api_key=demo&number_of_trials=1::int&participant_id=None&session_id=05222d55-bc87-4c30-b756-c70ac9e62955&admin_type=metricwire](https://api.m2c2kit.com/m2c2kit/nt/index.html?activity_name=symbol-search&study_id=demo&api_key=demo&numb6er_of_trials=1::int&participant_id=None&session_id=05222d55-bc87-4c30-b756-c70ac9e62955&admin_type=metricwire)
 
 6. Save changes, and sync the Assessment with your study.
 
