@@ -1,16 +1,8 @@
-# Overview
-
-[`m2c2kit`](https://m2c2-project.github.io/m2c2kit/) is a Typescript/Javascript framework for rapid-creation and iteration of cognitive assessments.
-
-For more information about creating your own m2c2kit tasks, visit our documentation:
-
-https://m2c2-project.github.io/m2c2kit/ 
-
-## About this Repository
+# About this Repository
 
 With the web-based implementation of M2C2kit assessments, it is possible for them to be embedded via Qualtrics, REDCAP, and Metricwire (as well as anything else with a WebView[cite]).
 
-This repository contains an implementation guide for using Qualtrics. The `templates` folder will contain examples of different ways in which you may configure m2c2kit cognitive assessments. 
+This documentation page contains an implementation guide for using Qualtrics. The `templates` folder will contain examples of different ways in which you may configure m2c2kit cognitive assessments. 
 
 ## Getting Started - Using the M2C2kit Production Server
 
