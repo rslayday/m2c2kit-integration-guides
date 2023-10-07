@@ -6,17 +6,19 @@ This documentation page contains an implementation guide for using Metricwire.
 
 ## Getting Started - Using the M2C2kit Production Server
 
-1. Login to [Catalyst]()
-
-SCREENSHOT
+1. Login to Metricwire Catalyst | [https://catalyst.metricwire.com/](https://catalyst.metricwire.com/)
 
 2. Create or edit an Assessment
 
-SCREENSHOT
+![Assessment view](metricwire_assessment.png "Assessment view")
 
 3. Add a Field of type 'WebView'
 
+![Add `WebView`](metricwire_webview.png "Add `WebView`")
+
 4. Enable `catalyst_next_button` event to go next
+
+![Enable `catalyst_next_button` event to go next](metricwire_next.png "Enable `catalyst_next_button` event to go next")
 
 5. Enter URL you received from our documentation or Project Coordinator. Make sure to modify URL to include magic params that inject identifiers from Metricwire:
 
