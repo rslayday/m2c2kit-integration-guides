@@ -12,7 +12,7 @@ session_id: a session identifier
 
 participant_id: a participant identifier
 
-api_key: a valid API key ([reach out](m2c2@psu.edu) if you are ready to get started!)
+api_key: a valid API key ([reach out](mailto:m2c2@psu.edu) if you are ready to get started!)
 
 group: a group indicator (str)
 
