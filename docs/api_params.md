@@ -3,12 +3,19 @@ Our backend is able to accept a number of parameters via URL, i.e., task paramet
 
 ## Session identifiers
 activity_name: symbol-search, grid-memory, color-shapes, color-dots
+
 admin_type: qualtrics, metricwire
+
 study_id: a study identifier (name)
+
 session_id: a session identifier
+
 participant_id: a participant identifier
+
 api_key: a valid API key
+
 group: a group indicator (str)
+
 wave: a wave indicator (str)
 
 ## Task parameters
