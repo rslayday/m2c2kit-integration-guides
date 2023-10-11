@@ -10,7 +10,7 @@ https://m2c2-project.github.io/m2c2kit/
 
 The link below is an example of a task demo for the Symbol Search cognitive assessment, with 3 trials
 
-https://prod.m2c2kit.com/m2c2kit/nt/index.html?activity_name=symbol-search&study_id=demo&api_key=demo&number_of_trials=3::int&participant_id=None&session_id=XXX&admin_type=missing
+https://prod.m2c2kit.com/m2c2kit/nt/index.html?activity_name=symbol-search&study_id=demo&api_key=demo&number_of_trials=3::int&participant_id=XXX&session_id=XXX&admin_type=metricwire
 
 The rest of this guide (as well as pages linked below) covers additional parameters you may leverage to customize the experience in your study.
 
