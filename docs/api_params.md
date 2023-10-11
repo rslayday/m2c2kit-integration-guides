@@ -19,6 +19,11 @@ group: a group indicator (str)
 wave: a wave indicator (str)
 
 ## Task parameters
+
+However although parameters are passed via URL, we still need to preserve type information to pass to m2c2kit. That happens by spelling the parameters **exactly** as noted in the links above, and the types need to be passed with a double color (::) seperator. For example, if I wanted 1 trial I would specify the URL param as: `number_of_trials=1::int`
+
+See links below for all available parameters for each task: 
+
 https://m2c2-project.github.io/m2c2kit/docs/schemas/grid-memory
 
 https://m2c2-project.github.io/m2c2kit/docs/schemas/color-dots
@@ -26,8 +31,6 @@ https://m2c2-project.github.io/m2c2kit/docs/schemas/color-dots
 https://m2c2-project.github.io/m2c2kit/docs/schemas/color-shapes
 
 https://m2c2-project.github.io/m2c2kit/docs/schemas/symbol-search
-
-However although parameters are passed via URL, we still need to preserve type information to pass to m2c2kit. That happens by spelling the parameters **exactly** as noted in the links above, and the types need to be passed with a double color (::) seperator. For example, if I wanted 1 trial I would specify the URL param as: `number_of_trials=1::int`
 
 ## Example URL
 
