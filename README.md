@@ -6,6 +6,14 @@ For more information about creating your own m2c2kit tasks, visit our documentat
 
 https://m2c2-project.github.io/m2c2kit/ 
 
+## Overview: Using URL-based approach in your study
+
+The link below is an example of a task demo for the Symbol Search cognitive assessment, with 3 trials
+
+https://prod.m2c2kit.com/m2c2kit/nt/index.html?activity_name=symbol-search&study_id=demo&api_key=demo&number_of_trials=3::int&participant_id=None&session_id=XXX&admin_type=missing
+
+The rest of this guide (as well as pages linked below) covers additional parameters you may leverage to customize the experience in your study.
+
 ## Getting Started Workflow
 
 1. **Initial interest:** If interested in using the M2C2kit assessments with our secure data backend, please contact m2c2@psu.edu and nur375@psu.edu. We will send an Airtable form to collect information about your study, IRB and team.
