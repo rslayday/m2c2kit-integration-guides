@@ -36,4 +36,4 @@ https://m2c2-project.github.io/m2c2kit/docs/schemas/symbol-search
 
 The link below is an example of a task demo for Symbol Search, with 3 trials
 
-https://prod.m2c2kit.com/m2c2kit/nt/index.html?activity_name=symbol-search&study_id=demo&api_key=demo&number_of_trials=3::int&participant_id=None&session_id=XXX&admin_type=missing
+https://prod.m2c2kit.com/m2c2kit/nt/index.html?activity_name=symbol-search&study_id=demo&api_key=demo&number_of_trials=3::int&show_quit_button=false::bool&participant_id=None&session_id=XXX&admin_type=missing
