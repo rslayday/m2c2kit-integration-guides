@@ -3,7 +3,8 @@ Our backend is able to accept a number of parameters via URL, i.e., task paramet
 
 ## Session identifiers
 activity_name: 
-  -possible values: `symbol-search`, `grid-memory`, `color-shapes`, `color-dots`
+
+  - possible values: `symbol-search`, `grid-memory`, `color-shapes`, `color-dots`
 
 admin_type: qualtrics, metricwire
 
