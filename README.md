@@ -22,6 +22,9 @@ The rest of this guide (as well as pages linked below) covers additional paramet
 
 3. **Verification:** Once your study is configured via your chosen integration partner, we ask that you verify all links and resulting data before launching your study. With our API documentation, you will be able to develop a dashboard if relevant for your project (e.g., in Retool, Streamlit, Dash, etc.).
 
+    - Use our [Jupyter Notebook template](jupyter_notebooks/M2C2Kit_Data_Query_Notebook.ipynb) to get started (requires contact with M2C2 Team to configure access for querying)
+        - Required software: [Visual Studio Code](https://code.visualstudio.com/) with Jupyter Notebook Extension or [Jupyter Lab](https://jupyter.org/install) (or [Anaconda](https://www.anaconda.com/))
+
 4. **Liftoff:** We will provide a set of Python and R scripts with common data querying use cases addressed. Once your study is complete, we will arrange sharing of all raw data files.
 
 ## About this Repository of Integration Guides
