@@ -20,6 +20,11 @@ The rest of this guide (as well as pages linked below) covers additional paramet
 
 2. **Onboarding:**  We will send the appropriate integration guide (e.g., Qualtrics, Metricwire) depending on your study needs. We will register your study data users and register your study ID on our portal. We will return an API key, Study ID and test URLs containing this information.
 
+    - Parameterizing tasks via URL, available params: [`docs/api_params.md`](docs/api_params.md)
+    - Qualtrics Integration guide: [`docs/qualtrics.md`](docs/qualtrics.md)
+    - Metricwire Integration guide: [`docs/metricwire.md`](docs/metricwire.md)
+    - Contact us for a `study_id` and `api_key`: [m2c2@psu.edu](mailto:m2c2@psu.edu)
+
 3. **Verification:** Once your study is configured via your chosen integration partner, we ask that you verify all links and resulting data before launching your study. With our API documentation, you will be able to develop a dashboard if relevant for your project (e.g., in Retool, Streamlit, Dash, etc.).
 
     - Use our [Jupyter Notebook template](jupyter_notebooks/M2C2Kit_Data_Query_Notebook.ipynb) to get started (requires contact with M2C2 Team to configure access for querying)
