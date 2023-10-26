@@ -8,7 +8,7 @@
 
 * Fill out the fields except for client id, client secret, scope, and grant type. 
 
-	Click ‘Try it out’  
+* Click ‘Try it out’  
 
 
 ![Click ‘Try it out’](authorize_register.png "Click ‘Try it out’")
@@ -20,7 +20,7 @@
 * Once you have been confirmed to have been authorized and the study has been added, click ‘Authorize’ located at the very top of the form and input your username and password.  
 
 
-!(authorize_register2.png)
+![Once you have been confirmed to have been authorized and the study has been added, click ‘Authorize’ located at the very top of the form and input your username and password.](authorize_register2.png "Once you have been confirmed to have been authorized and the study has been added, click ‘Authorize’ located at the very top of the form and input your username and password.")
 
 
 
