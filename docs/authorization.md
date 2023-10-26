@@ -20,10 +20,7 @@
 * Once you have been confirmed to have been authorized and the study has been added, click ‘Authorize’ located at the very top of the form and input your username and password.  
 
 
-
-
-
-![alt_text](images/image2.png "image_tooltip")
+!(authorize_register2.png)
 
 
 
