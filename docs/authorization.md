@@ -10,7 +10,7 @@
 
 * Click ‘Try it out’  
 
-![Click ‘Try it out’](authorize_register.png "Click ‘Try it out’")
+![Click ‘Try it out’](authorize_register.png "Click ‘Try it out’" style="border: 2px solid  gray;")
 
 * Contact our team to add the study name to our system by filling out this study form: 
 
