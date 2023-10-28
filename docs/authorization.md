@@ -14,9 +14,9 @@
 
 ![Click ‘Try it out’](authorize_register.png "Click ‘Try it out’")
 
-* Contact our team to add the study name to our system by filling out this study form: *[Authorization Study Creation Request Form](https://airtable.com/app0JQhjqc5VNZMpZ/shrAqgkD5GD3hHOKI)*  
+* Contact our team to add the study name to our system by filling out this study form: **[Authorization Study Creation Request Form](https://airtable.com/app0JQhjqc5VNZMpZ/shrAqgkD5GD3hHOKI)**  **IMPORTANT:** This form only has to be completed *ONCE* for your study. Skip this step and the next step if a team member has already completed this form.
 
-* Wait for us to confirm that you have been successfully added. 
+* Wait for us to confirm that the study has been successfully created. (Again, skip this step if a team member has already completed the above form)
 * Once you have been confirmed to have been authorized and the study has been added, click ‘Authorize’ located at the very top of the form and input your username and password.  
 
 ![Once you have been confirmed to have been authorized and the study has been added, click ‘Authorize’ located at the very top of the form and input your username and password.](authorize_register2.png "Once you have been confirmed to have been authorized and the study has been added, click ‘Authorize’ located at the very top of the form and input your username and password.")
@@ -50,11 +50,11 @@
 
 ![Your information will be displayed below (see example)](authorize_register6.png "Your information will be displayed below (see example)")
 
-* Next, fill out our Airtable form to capture details about your study, and who should be allowed to pull data: *[Authorization Study Creation Request Form](https://airtable.com/app0JQhjqc5VNZMpZ/shrAqgkD5GD3hHOKI)*.
+* Next, fill out our Airtable form to capture details about who should be allowed to pull data: **[Usernames for Data Access Form](https://airtable.com/app0JQhjqc5VNZMpZ/shr2FrUEAeaZV7RzF)**.
 * You are now ready to use the Jupyter Notebook:  \
  \
 [https://github.com/m2c2-project/m2c2kit-integration-guides/blob/main/jupyter_notebooks/M2C2Kit_Data_Query_Notebook.ipynb](https://github.com/m2c2-project/m2c2kit-integration-guides/blob/main/jupyter_notebooks/M2C2Kit_Data_Query_Notebook.ipynb)  
 
     * Follow the guide and download the Jupyter Notebook from the GitHub repo to use on your device.  
 
-Filling out the form is the fastest way to alert us of your question/issue or study creation request. For other requests or inquiries, please email us at m2c2@psu.edu. 
+Questions? Please submit the **[Question Form](https://airtable.com/app0JQhjqc5VNZMpZ/shrFeHYs7coh4FEni)**. Although the Question Form is the fastest way to alert us, you may also reach us at m2c2@psu.edu. 
