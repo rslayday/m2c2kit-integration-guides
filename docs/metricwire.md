@@ -22,12 +22,17 @@ This documentation page contains an implementation guide for using Metricwire.
 
 5. Enter URL you received from our documentation or Project Coordinator. Make sure to modify URL to include magic params that inject identifiers from Metricwire:
 
-`|*participantUserId*|` = participant_id (Participant Identifier) <br>
-`|*submissionSessionId*|` = session_id (Session Identifier) <br>
-`metricwire` = admin_type (Admistrative Type)
+**`|*participantUserId*|` = participant_id (Participant Identifier)** <br>
+**`|*submissionSessionId*|` = session_id (Session Identifier)** <br>
+**`metricwire` = admin_type (Admistrative Type)** <br>
 
-For example:
-[https://prod.m2c2kit.com/m2c2kit/nt/index.html?activity_name=symbol-search&study_id=demo&api_key=demo&number_of_trials=1::int&show_quit_button=false::boolean&participant_id=**|*participantUserId*|**&session_id=**|*submissionSessionId*|**&admin_type=**metricwire**](https://prod.m2c2kit.com/m2c2kit/nt/index.html?activity_name=symbol-search&study_id=demo&api_key=demo&number_of_trials=1::int&show_quit_button=false::boolean&participant_id=|*participantUserId*|&session_id=|*submissionSessionId*|&admin_type=metricwire)
+Note. Make sure to update the **activity_name** for each cognitive assessment you want to use. Also, you will likely want to change the **number_of_trials** for each cognitive assessment. For testing purposes, you may want to keep this as is (number_of_trials=1) and update this later.
+
+- activity_name possible values: `symbol-search`, `grid-memory`, `color-shapes`, `color-dots`
+
+
+**For example:**
+[https://prod.m2c2kit.com/m2c2kit/nt/index.html?**activity_name**=symbol-search&study_id=demo&api_key=demo&**number_of_trials**=1::int&show_quit_button=false::boolean&participant_id=**|*participantUserId*|**&session_id=**|*submissionSessionId*|**&admin_type=**metricwire**](https://prod.m2c2kit.com/m2c2kit/nt/index.html?activity_name=symbol-search&study_id=demo&api_key=demo&number_of_trials=1::int&show_quit_button=false::boolean&participant_id=|*participantUserId*|&session_id=|*submissionSessionId*|&admin_type=metricwire)
 
 6. Save changes and sync the Assessment with your study.
 
