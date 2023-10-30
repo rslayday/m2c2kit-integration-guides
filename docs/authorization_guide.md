@@ -1,6 +1,6 @@
 # <span style="text-decoration:underline;">Getting Started - Authorization to Access Data</span>
 
-### This guide is for the authorization process to use the Jupyter Notebook, which is needed to access the cognitive assessment data. It outlines the steps that need to be completed by each team member who plans to pull this data.
+### This guide is for the authorization process to use the Jupyter Notebook, which is needed to access the cognitive assessment data. It outlines the steps that need to be completed by each team member who plans to pull this data. Before following this guide, you should have your cognitive assessments 'plugged in' into your chosen platform and test that these display properly. 
 
 **If you are an external collaborator outside of PSU and you have yet to contact us, please reach out to us immediately at m2c2@psu.edu and do not proceed.**  
 
