@@ -2,23 +2,27 @@
 Our backend is able to accept a number of parameters via URL, i.e., task parameters and session identifiers.
 
 ## Session identifiers
-activity_name: 
+**activity_name**: 
 
   - possible values: `symbol-search`, `grid-memory`, `color-shapes`, `color-dots`
 
-admin_type: qualtrics, metricwire
+**admin_type**: qualtrics, metricwire
 
-study_id: a study identifier (name)
+**study_id**: a study identifier (name)
+* default is 'demo'. This will need to change to your study name before you get started. This will be requested by following the steps of the authorization guide.  
 
-session_id: a session identifier
+**session_id**: a session identifier
+* For MetricWire this will be: `|*submissionSessionId*|`
 
-participant_id: a participant identifier
+**participant_id**: a participant identifier
+* For MetricWire this will be: `|*participantUserId*|`
 
-api_key: a valid API key ([reach out](mailto:m2c2@psu.edu) if you are ready to get started!)
+**api_key**: a valid API key
+* If you are ready for your API key, please follow the **[Authorization Guide](https://github.com/m2c2-project/m2c2kit-integration-guides/blob/main/docs/authorization_guide.md#getting-started---authorization-to-access-data)** to get set up
 
-group: a group indicator (str)
+**group**: a group indicator (str) - optional
 
-wave: a wave indicator (str)
+**wave**: a wave indicator (str) - optional 
 
 ## Task parameters
 
