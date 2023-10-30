@@ -1,6 +1,6 @@
 # About this Repository
 
-With the web-based implementation of M2C2kit assessments, it is possible for them to be embedded via Qualtrics, REDCAP, and Metricwire (as well as anything else with a WebView[cite]).
+With the web-based implementation of M2C2kit assessments, it is possible for them to be embedded via Qualtrics, REDCAP, and Metricwire (as well as anything else with a WebView).
 
 This documentation page contains an implementation guide for using Metricwire. 
 
@@ -22,22 +22,41 @@ This documentation page contains an implementation guide for using Metricwire.
 
 5. Enter URL you received from our documentation or Project Coordinator. Make sure to modify URL to include magic params that inject identifiers from Metricwire:
 
-`|*studyId*|` = Study Identifier
-`|*participantUserId*|` = Participant Identifier
-`|*submissionSessionId*|` = Session Identifier
+`|*participantUserId*|` = participant_id (Participant Identifier) <br>
+`|*submissionSessionId*|` = session_id (Session Identifier) <br>
+`metricwire` = admin_type (Admistrative Type)
 
 For example:
-[https://prod.m2c2kit.com/m2c2kit/nt/index.html?activity_name=symbol-search&study_id=demo&api_key=demo&number_of_trials=1::int&show_quit_button=false::boolean&participant_id=|*participantUserId*|&session_id=|*submissionSessionId*|&admin_type=metricwire](https://prod.m2c2kit.com/m2c2kit/nt/index.html?activity_name=symbol-search&study_id=demo&api_key=demo&number_of_trials=1::int&show_quit_button=false::boolean&participant_id=|*participantUserId*|&session_id=|*submissionSessionId*|&admin_type=metricwire)
+[https://prod.m2c2kit.com/m2c2kit/nt/index.html?activity_name=symbol-search&study_id=demo&api_key=demo&number_of_trials=1::int&show_quit_button=false::boolean&participant_id=**|*participantUserId*|**&session_id=**|*submissionSessionId*|**&admin_type=**metricwire**](https://prod.m2c2kit.com/m2c2kit/nt/index.html?activity_name=symbol-search&study_id=demo&api_key=demo&number_of_trials=1::int&show_quit_button=false::boolean&participant_id=|*participantUserId*|&session_id=|*submissionSessionId*|&admin_type=metricwire)
 
-6. Save changes, and sync the Assessment with your study.
+6. Save changes and sync the Assessment with your study.
 
-7. Publish your survey and collect data!
+7. Publish and preview/test your study to ensure the cognitive assessments appear. 
+
+8. Preview/test your study to ensure the cognitive assessments appear.
 
 ### Data Access
 
+1. Once you are ready to start your study, register your study data users and study ID on our portal following the [**Authorization Guide**](https://github.com/m2c2-project/m2c2kit-integration-guides/blob/main/docs/authorization_guide.md). 
+
+2. Once you receive your study ID and API key, insert those into your cognitive assessment URLs. <br>
+**study_id=[REPLACE DEMO WITH YOUR STUDY ID WITHIN THE URL]** <br>
+**api_key=[REPLACE DEMO WITH YOUR API KEY WITHIN THE URL]**
+
+*IMPORTANT: Make sure you have done this for all your existing URLs for each survey you have set up. Otherwise, you will not collect the data.*
+
+3. **Save changes** and **sync** your study.
+
+4. Publish and produce some test data.
+
+5. Use the Jupyter Notebook for data extraction and **confirm that you are receiving data**.
+    - If you are at this stage, you should have followed the Authorization Guide mentioned above and requested your study ID and study data users by filling out the forms referenced in the Authorization Guide.
+
+6. After testing your study **thoroughly**, collect data!
+    - **It is essential to make sure you are receiving data before going live. You should also check that you can cross-link your survey data with your cognitive assessment data using the session_id.** 
+
 Using this documentation would allow you to get started to collect data from m2c2kit assessments via Metricwire.
 
-To get your data out of our backend, please refer to the [Authorization Guide](https://github.com/m2c2-project/m2c2kit-integration-guides/blob/main/docs/authorization_guide.md) for coordination on using our API for data extraction.
 
 ## Getting Started - Using Custom Tasks
 
