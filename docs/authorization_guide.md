@@ -10,7 +10,7 @@
 
 * Click ‘Try it out’  
 
-![Click ‘Try it out’](authorize_register.png "Click ‘Try it out’")
+![Click ‘Try it out’](authorize_register1.png "Click ‘Try it out’")
 
 * Contact our team to add the study name to our system by filling out this study form: **[Authorization Study Creation Request Form](https://airtable.com/app0JQhjqc5VNZMpZ/shrAqgkD5GD3hHOKI)**  **IMPORTANT:** This form only has to be completed *ONCE* for your study. Skip this step and the next step if a team member has already completed this form.
 
