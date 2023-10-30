@@ -6,16 +6,34 @@
 
 * Go to this URL: [https://prod.m2c2kit.com/docs#/authentication/sign_up_auth_register_post](https://prod.m2c2kit.com/docs#/authentication/sign_up_auth_register_post)  
 
-* Fill out the fields except for client id, client secret, scope, and grant type. 
-
 * Click ‘Try it out’  
 
+* Fill out the fields: <br>
+   email <br>
+   phone_number <br>
+   first_name <br>
+   last_name <br>
+   affiliation <br>
+   username <br>
+   password <br> <br>
+   (Leave grant_type, scope, client_id, and client_secret blank)
+
+* Select 'Execute' (big blue button). 
+
+* If successful, you will see 'Responses' below the blue 'Execute' button. 
+
 ![Click ‘Try it out’](authorize_register1.png "Click ‘Try it out’")
+
+* Select 'Execute' (big blue button). 
+
+![Select 'Execute' (big blue button).](authorize_register_button.png "Select 'Execute' (big blue button).")
+
+* If successful, you will see 'Responses' below the blue 'Execute' button. 
 
 * Contact our team to add the study name to our system by filling out this study form: **[Authorization Study Creation Request Form](https://airtable.com/app0JQhjqc5VNZMpZ/shrAqgkD5GD3hHOKI)**  **IMPORTANT:** This form only has to be completed *ONCE* for your study. Skip this step and the next step if a team member has already completed this form.
 
 * Wait for us to confirm that the study has been successfully created. (Again, skip this step if a team member has already completed the above form)
-* Once you have been confirmed to have been authorized and the study has been added, click ‘Authorize’ located at the very top of the form and input your username and password.  
+* Once you have been confirmed to have been authorized and the study has been added, click ‘Authorize’ located at the very top of the form (https://prod.m2c2kit.com/docs#/) and input your username and password.  
 
 ![Once you have been confirmed to have been authorized and the study has been added, click ‘Authorize’ located at the very top of the form and input your username and password.](authorize_register2.png "Once you have been confirmed to have been authorized and the study has been added, click ‘Authorize’ located at the very top of the form and input your username and password.")
 
