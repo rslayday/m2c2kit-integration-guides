@@ -37,7 +37,7 @@ For example:
 
 Using this documentation would allow you to get started to collect data from m2c2kit assessments via Metricwire.
 
-To get your data out of our backend, please contact [Dr. Nelson Roque](nur375@psu.edu) for coordination on using our API for data extraction.
+To get your data out of our backend, please refer to the [Authorization Guide](https://github.com/m2c2-project/m2c2kit-integration-guides/blob/main/docs/authorization_guide.md) for coordination on using our API for data extraction.
 
 ## Getting Started - Using Custom Tasks
 
