@@ -32,7 +32,7 @@ Note. Make sure to update the **activity_name** for each cognitive assessment yo
 
 
 **For example:**
-[https://prod.m2c2kit.com/m2c2kit/nt/index.html?**activity_name**=symbol-search&study_id=demo&api_key=demo&**number_of_trials**=1::int&show_quit_button=false::boolean&participant_id=**|*participantUserId*|**&session_id=**|*submissionSessionId*|**&admin_type=**metricwire**](https://prod.m2c2kit.com/m2c2kit/nt/index.html?activity_name=symbol-search&study_id=demo&api_key=demo&number_of_trials=1::int&show_quit_button=false::boolean&participant_id=|*participantUserId*|&session_id=|*submissionSessionId*|&admin_type=metricwire)
+[https://prod.m2c2kit.com/m2c2kit/nt/index.html?**activity_name**=symbol-search&study_id=demo&width=400&height=1000&api_key=demo&**number_of_trials**=1::int&show_quit_button=false::boolean&participant_id=**|*participantUserId*|**&session_id=**|*submissionSessionId*|**&admin_type=**metricwire**](https://prod.m2c2kit.com/m2c2kit/nt/index.html?activity_name=symbol-search&study_id=demo&api_key=demo&number_of_trials=1::int&show_quit_button=false::boolean&participant_id=|*participantUserId*|&session_id=|*submissionSessionId*|&admin_type=metricwire)
 
 6. Save changes and sync the Assessment with your study.
 
