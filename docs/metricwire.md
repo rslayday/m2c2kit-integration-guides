@@ -12,7 +12,7 @@ This documentation page contains an implementation guide for using Metricwire.
 
 ![Assessment view](metricwire_assessment.png "Assessment view")
 
-3. Add a Field of type 'WebView'
+3. Add a Field of type 'WebView' within the assessment
 
 ![Add `WebView`](metricwire_webview.png "Add `WebView`")
 
@@ -20,13 +20,13 @@ This documentation page contains an implementation guide for using Metricwire.
 
 ![Enable `catalyst_next_button` event to go next](metricwire_next.png "Enable `catalyst_next_button` event to go next")
 
-5. Enter URL you received from our documentation or Project Coordinator. Make sure to modify URL to include magic params that inject identifiers from Metricwire:
+5. Enter the cognitive assessment URL(s) from our documentation below. Make sure to modify URL to include magic params that inject identifiers from Metricwire:
 
 **`|*participantUserId*|` = participant_id (Participant Identifier)** <br>
 **`|*submissionSessionId*|` = session_id (Session Identifier)** <br>
 **`metricwire` = admin_type (Admistrative Type)** <br>
 
-Note. Make sure to update the **activity_name** for each cognitive assessment you want to use. Also, you will likely want to change the **number_of_trials** for each cognitive assessment. For testing purposes, you may want to keep this as is (number_of_trials=1) and update this later.
+Note. Make sure to update the **activity_name** for each cognitive assessment you want to use. Also, you will likely want to change the **number_of_trials** for each cognitive assessment. For testing purposes, you may want to keep this as is (number_of_trials=2) and update this later.
 
 - activity_name possible values: `symbol-search`, `grid-memory`, `color-shapes`, `color-dots`
 
@@ -44,7 +44,9 @@ https://prod.m2c2kit.com/m2c2kit/nt/index.html?activity_name=grid-memory&study_i
 
 6. Save changes and sync the Assessment with your study.
 
-7. Publish and preview/test your study to ensure the cognitive assessments appear. 
+7. Publish and preview/test your study to ensure the cognitive assessments appear.
+    Tip: To preview/test your study, create a test account by going to the 'Contact Manager' of your workspace and select 'Create Test Accounts'. Then, add yourself as a participant with that test participant email and             send yourself a survey. 
+![Add `Test_account`](metricwire_test_account.mp4 "Add `Test_account`")
 
 8. Preview/test your study to ensure the cognitive assessments appear.
 
