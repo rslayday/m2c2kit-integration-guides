@@ -44,9 +44,11 @@ https://prod.m2c2kit.com/m2c2kit/nt/index.html?activity_name=grid-memory&study_i
 
 6. Save changes and sync the Assessment with your study.
 
-7. Publish and preview/test your study to ensure the cognitive assessments appear.
-    Tip: To preview/test your study, create a test account by going to the 'Contact Manager' of your workspace and select 'Create Test Accounts'. Then, add yourself as a participant with that test participant email and             send yourself a survey. 
-![Add `Test_account`](metricwire_test_account.mp4 "Add `Test_account`")
+7. Publish and preview/test your study to ensure the cognitive assessments appear. <br> <br>
+    **Tip:** To preview/test your study, create a test account by going to the 'Contact Manager' of your workspace and select 'Create Test Accounts'. Then, add yourself as a participant with that test participant email and             send yourself a survey. 
+
+https://github.com/m2c2-project/m2c2kit-integration-guides/assets/28117604/6f68ac3a-c9b4-425e-a7c7-36475861b08e
+
 
 8. Preview/test your study to ensure the cognitive assessments appear.
 
