@@ -35,10 +35,10 @@ Note. Make sure to update the **activity_name** for each cognitive assessment yo
 [sample_metricwire_urls.txt](sample_metricwire_urls.txt) or links below
 
 ```
-https://prod.m2c2kit.com/m2c2kit/nt/index.html?activity_name=symbol-search&study_id=demo&width=400&height=1000&api_key=demo&number_of_trials=2::int&show_quit_button=false::boolean&participant_id=|participantUserId|&session_id=|submissionSessionId|&admin_type=metricwire
-https://prod.m2c2kit.com/m2c2kit/nt/index.html?activity_name=color-shapes&study_id=demo&width=400&height=1000&api_key=demo&number_of_trials=2::int&show_quit_button=false::boolean&participant_id=|participantUserId|&session_id=|submissionSessionId|&admin_type=metricwire
-https://prod.m2c2kit.com/m2c2kit/nt/index.html?activity_name=color-dots&study_id=demo&width=400&height=1000&api_key=demo&number_of_trials=2::int&show_quit_button=false::boolean&participant_id=|participantUserId|&session_id=|submissionSessionId|&admin_type=metricwire
-https://prod.m2c2kit.com/m2c2kit/nt/index.html?activity_name=grid-memory&study_id=demo&width=400&height=1000&api_key=demo&number_of_trials=2::int&show_quit_button=false::boolean&participant_id=|participantUserId|&session_id=|submissionSessionId|&admin_type=metricwire
+https://prod.m2c2kit.com/m2c2kit/nt/index.html?activity_name=symbol-search&study_id=demo&width=400&height=1000&api_key=demo&number_of_trials=2::int&show_quit_button=false::boolean&participant_id=|*participantUserId*|&session_id=|*submissionSessionId*|&admin_type=metricwire
+https://prod.m2c2kit.com/m2c2kit/nt/index.html?activity_name=color-shapes&study_id=demo&width=400&height=1000&api_key=demo&number_of_trials=2::int&show_quit_button=false::boolean&participant_id=|*participantUserId*|&session_id=|*submissionSessionId*|&admin_type=metricwire
+https://prod.m2c2kit.com/m2c2kit/nt/index.html?activity_name=color-dots&study_id=demo&width=400&height=1000&api_key=demo&number_of_trials=2::int&show_quit_button=false::boolean&participant_id=|*participantUserId*|&session_id=|*submissionSessionId*|&admin_type=metricwire
+https://prod.m2c2kit.com/m2c2kit/nt/index.html?activity_name=grid-memory&study_id=demo&width=400&height=1000&api_key=demo&number_of_trials=2::int&show_quit_button=false::boolean&participant_id=|*participantUserId*|&session_id=|*submissionSessionId*|&admin_type=metricwire
 ```
 
 
