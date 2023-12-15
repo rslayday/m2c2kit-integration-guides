@@ -56,9 +56,7 @@ https://github.com/m2c2-project/m2c2kit-integration-guides/assets/28117604/6f68a
 
 1. Once you are ready to start your study, register your study data users and study ID on our portal following the [**Authorization Guide**](https://github.com/m2c2-project/m2c2kit-integration-guides/blob/main/docs/authorization_guide.md). 
 
-2. Once you receive your study ID and API key, insert those into your cognitive assessment URLs. <br>
-**study_id=[REPLACE DEMO WITH YOUR STUDY ID WITHIN THE URL]** <br>
-**api_key=[REPLACE DEMO WITH YOUR API KEY WITHIN THE URL]**
+2. Once you receive your study ID and API key, use the url generator to put produce links and insert into MetricWire: [**Link Generator**](https://prod.m2c2kit.com/link-generator). 
 
 *IMPORTANT: Make sure you have done this for all your existing URLs for each survey you have set up. Otherwise, you will not collect the data.*
 
