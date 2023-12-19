@@ -33,7 +33,9 @@
 
 * Contact our team to add the study name to our system by filling out this study form: **[Authorization Study Creation Request Form](https://airtable.com/app0JQhjqc5VNZMpZ/shrAqgkD5GD3hHOKI)**  **IMPORTANT:** This form only has to be completed *ONCE* for your study. Skip this step and the next step if a team member has already completed this form.
 
-* Wait for us to confirm that the study has been successfully created. (Again, skip this step if a team member has already completed the above form)
+* Wait for us to confirm that the study has been successfully created. We will send you an email confirming this. (Again, skip this step if a team member has already completed the above form)
+
+**CHECK THAT YOU HAVE BEEN ADDED TO YOUR STUDY**
 * Once you have been confirmed to have been authorized and the study has been added, click ‘Authorize’ located at the very top of the form (https://prod.m2c2kit.com/docs#/) and input your username and password.  
 
 ![Once you have been confirmed to have been authorized and the study has been added, click ‘Authorize’ located at the very top of the form and input your username and password.](authorize_register2.png "Once you have been confirmed to have been authorized and the study has been added, click ‘Authorize’ located at the very top of the form and input your username and password.")
