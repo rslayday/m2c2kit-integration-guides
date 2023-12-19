@@ -16,7 +16,7 @@ The rest of this guide (as well as pages linked below) covers additional paramet
 
 ## Getting Started Workflow
 
-1. **Initial interest:** If interested in using the M2C2kit assessments with our secure data backend, please contact m2c2@psu.edu and nur375@psu.edu. We will send an Airtable form to collect information about your study, IRB and team.
+1. **Initial interest:** If interested in using the M2C2kit assessments with our secure data backend, please fill out this Airtable form to collect information about your study, IRB, and team: [`Initial interest m2c2kit form`](https://airtable.com/app0JQhjqc5VNZMpZ/shrke7JUCxIaJMZ7y). 
 
 2. **Onboarding:**  Refer to the appropriate integration guide (e.g., Qualtrics, MetricWire) depending on your study needs. Once you have added your cognitive assessments, you must follow the Authorization Guide. We will then register your study data users and register your study ID on our portal. We will return an API key, Study ID and test URLs containing this information.
 

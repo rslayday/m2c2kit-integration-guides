@@ -18,17 +18,18 @@
    password <br> <br>
    (Leave grant_type, scope, client_id, and client_secret blank)
 
-* Select 'Execute' (big blue button). 
-
-* If successful, you will see 'Responses' below the blue 'Execute' button. 
 
 ![Click ‘Try it out’](authorize_register1.png "Click ‘Try it out’")
+
+![Click ‘Try it out’](authorize_register_userpass.png "Click 'Try it out'")
 
 * Select 'Execute' (big blue button). 
 
 ![Select 'Execute' (big blue button).](authorize_register_button.png "Select 'Execute' (big blue button).")
 
-* If successful, you will see 'Responses' below the blue 'Execute' button. 
+* If successful, you will see 'Responses' below the blue 'Execute' button (see screenshot below). 
+
+![If successful, you will see 'Responses' below the blue 'Execute' button (see screenshot below).](authorize_register_successful.png "If successful, you will see 'Responses' below the blue 'Execute' button (see screenshot below).")
 
 * Contact our team to add the study name to our system by filling out this study form: **[Authorization Study Creation Request Form](https://airtable.com/app0JQhjqc5VNZMpZ/shrAqgkD5GD3hHOKI)**  **IMPORTANT:** This form only has to be completed *ONCE* for your study. Skip this step and the next step if a team member has already completed this form.
 
@@ -67,6 +68,7 @@
 ![Your information will be displayed below (see example)](authorize_register6.png "Your information will be displayed below (see example)")
 
 * Next, fill out our Airtable form to capture details about who should be allowed to pull data: **[Usernames for Data Access Form](https://airtable.com/app0JQhjqc5VNZMpZ/shr2FrUEAeaZV7RzF)**.
+* Once you receive your study ID and API key, use the url generator to put produce links and insert into your survey platform: [**Link Generator**](https://prod.m2c2kit.com/link-generator). 
 * You are now ready to use the Jupyter Notebook:  \
  \
 [https://github.com/m2c2-project/m2c2kit-integration-guides/blob/main/jupyter_notebooks/M2C2Kit_Data_Query_Notebook.ipynb](https://github.com/m2c2-project/m2c2kit-integration-guides/blob/main/jupyter_notebooks/M2C2Kit_Data_Query_Notebook.ipynb)  
