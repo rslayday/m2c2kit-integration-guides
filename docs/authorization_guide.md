@@ -18,9 +18,6 @@
    password <br> <br>
    (Leave grant_type, scope, client_id, and client_secret blank)
 
-* Select 'Execute' (big blue button). 
-
-* If successful, you will see 'Responses' below the blue 'Execute' button. 
 
 ![Click ‘Try it out’](authorize_register1.png "Click ‘Try it out’")
 
@@ -28,7 +25,9 @@
 
 ![Select 'Execute' (big blue button).](authorize_register_button.png "Select 'Execute' (big blue button).")
 
-* If successful, you will see 'Responses' below the blue 'Execute' button. 
+* If successful, you will see 'Responses' below the blue 'Execute' button (see screenshot below). 
+
+![If successful, you will see 'Responses' below the blue 'Execute' button (see screenshot below).](authorize_register_successful.png "If successful, you will see 'Responses' below the blue 'Execute' button (see screenshot below).")
 
 * Contact our team to add the study name to our system by filling out this study form: **[Authorization Study Creation Request Form](https://airtable.com/app0JQhjqc5VNZMpZ/shrAqgkD5GD3hHOKI)**  **IMPORTANT:** This form only has to be completed *ONCE* for your study. Skip this step and the next step if a team member has already completed this form.
 
