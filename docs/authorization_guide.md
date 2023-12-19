@@ -21,6 +21,8 @@
 
 ![Click ‘Try it out’](authorize_register1.png "Click ‘Try it out’")
 
+![Click ‘Try it out’](authorize_register_userpass.png "Click 'Try it out'")
+
 * Select 'Execute' (big blue button). 
 
 ![Select 'Execute' (big blue button).](authorize_register_button.png "Select 'Execute' (big blue button).")
