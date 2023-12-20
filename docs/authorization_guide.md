@@ -69,7 +69,7 @@
 
 ![Your information will be displayed below (see example)](authorize_register6.png "Your information will be displayed below (see example)")
 
-* Next, fill out our Airtable form to capture details about who should be allowed to pull data: **[Usernames for Data Access Form](https://airtable.com/app0JQhjqc5VNZMpZ/shr2FrUEAeaZV7RzF)**.
+* Next, fill out our Airtable form to capture details about who should be allowed to pull data (If you were not the one who already filled out the previous form): **[Usernames for Data Access Form](https://airtable.com/app0JQhjqc5VNZMpZ/shr2FrUEAeaZV7RzF)**.
 * Once you receive your study ID and API key, use the url generator to put produce links and insert into your survey platform: [**Link Generator**](https://prod.m2c2kit.com/link-generator). 
 * You are now ready to use the Jupyter Notebook:  \
  \
