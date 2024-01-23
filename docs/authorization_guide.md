@@ -73,7 +73,7 @@
 * Once you receive your study ID and API key, use the url generator to put produce links and insert into your survey platform: [**Link Generator**](https://prod.m2c2kit.com/link-generator). 
 * You are now ready to use the Jupyter Notebook:  \
  \
-[https://github.com/m2c2-project/m2c2kit-integration-guides/blob/main/jupyter_notebooks/M2C2Kit_Data_Query_Notebook.ipynb](https://github.com/m2c2-project/m2c2kit-integration-guides/blob/main/jupyter_notebooks/M2C2Kit_Data_Query_Notebook.ipynb)  
+[https://github.com/m2c2-project/m2c2kit-integration-guides/blob/main/jupyter_notebooks/M2C2Kit_Data_Query_Notebook_lu_112923.ipynb](https://github.com/m2c2-project/m2c2kit-integration-guides/blob/main/jupyter_notebooks/M2C2Kit_Data_Query_Notebook_lu_112923.ipynb)  
 
     * Follow the guide and download the Jupyter Notebook from the GitHub repo to use on your device.  
 
