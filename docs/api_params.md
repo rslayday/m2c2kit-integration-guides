@@ -38,6 +38,14 @@ https://m2c2-project.github.io/m2c2kit/docs/schemas/color-shapes
 
 https://m2c2-project.github.io/m2c2kit/docs/schemas/symbol-search
 
+Available data types are:
+- `int`
+- `float`
+- `boolean`
+- `base64`
+- `json`
+- `uri`
+
 ## Example URL
 
 The link below is an example of a task demo for Symbol Search, with 3 trials
