@@ -19,7 +19,7 @@ This template uses a randomized Participant identifier (i.e., `PART_ID`) and Ses
 
 https://www.qualtrics.com/support/survey-platform/survey-module/survey-tools/import-and-export-surveys/#ImportingASurvey
 
-2. Once imported - make sure to modify the `Embedded Data` fields on the Qualtrics Survey Flow in order to create a unique `STUDY_ID` and `M2C2KIT_API_KEY`. We recommend using a UUID for the `M2C2KIT_API_KEY`. You can generate a UUID using online tools, e.g., https://www.uuidgenerator.net/api/version4 
+2. Once imported - make sure to modify the `Embedded Data` fields on the Qualtrics Survey Flow in order to create a unique `STUDY_ID` and `M2C2KIT_API_KEY`. Reach out to our team to request.
 
 ![Annotated screenshot for Qualtrics Embedded Data changes](qualtrics_template_m2c2kit.png "Annotated screenshot for Qualtrics Embedded Data changes")
 
