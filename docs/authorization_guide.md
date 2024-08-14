@@ -19,7 +19,7 @@
    (Leave grant_type, scope, client_id, and client_secret blank)
 
 
-![Click ‘Try it out’](authorize_register1.png "Click ‘Try it out’")
+![Click ‘Try it out’](images/authorize_register1.png "Click ‘Try it out’")
 
 ![Click ‘Try it out’](authorize_register_userpass.png "Click 'Try it out'")
 
