@@ -10,15 +10,15 @@ This documentation page contains an implementation guide for using Metricwire.
 
 2. Create or edit an Assessment
 
-![Assessment view](metricwire_assessment.png "Assessment view")
+![Assessment view](images/metricwire_assessment.png "Assessment view")
 
 3. Add a Field of type 'WebView' within the assessment
 
-![Add `WebView`](metricwire_webview.png "Add `WebView`")
+![Add `WebView`](images/metricwire_webview.png "Add `WebView`")
 
 4. Enable `catalyst_next_button` event to go next
 
-![Enable `catalyst_next_button` event to go next](metricwire_next.png "Enable `catalyst_next_button` event to go next")
+![Enable `catalyst_next_button` event to go next](images/metricwire_next.png "Enable `catalyst_next_button` event to go next")
 
 5. Enter the cognitive assessment URL(s) from our documentation below. Make sure to modify URL to include magic params that inject identifiers from Metricwire:
 
