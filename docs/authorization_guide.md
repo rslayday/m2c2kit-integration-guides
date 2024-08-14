@@ -38,9 +38,9 @@
 **CHECK THAT YOU HAVE BEEN ADDED TO YOUR STUDY**
 * Once you have been confirmed to have been authorized and the study has been added, click ‘Authorize’ located at the very top of the form (https://prod.m2c2kit.com/docs#/) and input your username and password.  
 
-![Once you have been confirmed to have been authorized and the study has been added, click ‘Authorize’ located at the very top of the form and input your username and password.](images/authorize_register2. "Once you have been confirmed to have been authorized and the study has been added, click ‘Authorize’ located at the very top of the form and input your username and password.")
+![Once you have been confirmed to have been authorized and the study has been added, click ‘Authorize’ located at the very top of the form and input your username and password.](images/authorize_register2.png "Once you have been confirmed to have been authorized and the study has been added, click ‘Authorize’ located at the very top of the form and input your username and password.")
 
-![Once you have been confirmed to have been authorized and the study has been added, click ‘Authorize’ located at the very top of the form and input your username and password.](images/authorize_register3. "Once you have been confirmed to have been authorized and the study has been added, click ‘Authorize’ located at the very top of the form and input your username and password.")
+![Once you have been confirmed to have been authorized and the study has been added, click ‘Authorize’ located at the very top of the form and input your username and password.](images/authorize_register3.png "Once you have been confirmed to have been authorized and the study has been added, click ‘Authorize’ located at the very top of the form and input your username and password.")
 
 * Once this is confirmed, close this pop-up window.  
 
@@ -50,7 +50,7 @@
 
 
 
-![Click on ‘try it out’ in the top-right-hand corner.](images/authorize_register4. "Click on ‘try it out’ in the top-right-hand corner.")
+![Click on ‘try it out’ in the top-right-hand corner.](images/authorize_register4.png "Click on ‘try it out’ in the top-right-hand corner.")
 
 
 
@@ -59,7 +59,7 @@
 
 
 
-![Then, select ‘Execute’.](images/authorize_register5. "Then, select ‘Execute’.")
+![Then, select ‘Execute’.](images/authorize_register5.png "Then, select ‘Execute’.")
 
 
 
@@ -67,7 +67,7 @@
 * Your information will be displayed below (see example)
 
 
-![Your information will be displayed below (see example)](images/authorize_register6. "Your information will be displayed below (see example)")
+![Your information will be displayed below (see example)](images/authorize_register6.png "Your information will be displayed below (see example)")
 
 * Next, fill out our Airtable form to capture details about who should be allowed to pull data (If you were not the one who already filled out the previous form): **[Usernames for Data Access Form](https://airtable.com/app0JQhjqc5VNZMpZ/shr2FrUEAeaZV7RzF)**.
 * Once you receive your study ID and API key, use the url generator to put produce links and insert into your survey platform: [**Link Generator**](https://prod.m2c2kit.com/link-generator). 
