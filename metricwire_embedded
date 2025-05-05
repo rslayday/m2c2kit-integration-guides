@@ -1,0 +1,75 @@
+# About this Repository
+
+This documentation page contains an implementation guide for using EMBEDDED tasks in Metricwire.
+
+Getting Started - Using the M2C2kit Production Server
+
+  1. Login to Metricwire Catalyst | [https://catalyst.metricwire.com/](https://catalyst.metricwire.com/)
+  2. Click on 'Protocol'
+
+  3. Click on 'Cognitive Task'
+
+  4. Click on the blue plus sign in the top right corner
+
+  5. Type 'Symbol Search'
+
+  6. Click on PORTRAIT
+
+  7. Click on 'Save Cognitive Task'
+
+  8. Click on 'Manage Cognitive Task'
+
+  9. Click on 'Symbol Search'
+
+  10. Click on 'Run Code'
+
+  11. Click on highlight
+
+  12. Click on '[09:49:57] SESSION_START'
+
+  13. Click on 'Save Tast'
+
+  14. Click on 'Publish Task'
+
+  15. Click on 'Publish Cognitive Task'
+
+  16. Click on your study on the top
+
+  17. Click on 'Protocol'
+
+  18. Click on 'Assessments'
+
+  19. Click the blue plus sign in the top right corner to add assessment
+
+  20. Type 'Embedded Cogtasks'
+
+  21. Click on 'Create Assessment'
+
+  22. Click on 'Fields'
+
+  23. Click the blue plus sign in the top right corner
+
+  24. Click on 'Cognitive Task'
+
+  25. Type label (i.e., Symbol Search)
+
+  26. Click on 'Data Coding'
+
+  27. Type 'symbol_search'
+
+  28. Click on 'Symbol Search' to select the cognitive task
+
+  29. Click the green button in the top right corner to save changes
+
+  30. Click the two arrows in the top right corner to sync mobile studies with current changes
+
+  31. 
+
+
+
+
+
+  
+  
+
+  
