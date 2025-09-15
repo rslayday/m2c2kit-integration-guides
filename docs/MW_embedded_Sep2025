@@ -1,0 +1,76 @@
+---
+sidebar_position: 2
+hide_table_of_contents: true
+---
+
+# About this Repository
+This documentation page contains an implementation guide for using EMBEDDED cognitive tasks in Metricwire. Using embedded cognitive tasks allows data to be stored directly into the metricwire platform and they do not need connectivity. 
+
+Please note that only FOUR of the cognitive tasks have been validated for use: Color Dots, Color Shapes, Grid Memory, and Symbol Search.
+*Note: Photos may not be completely accurate due to constant changes to platform. (Current photos from Sep 2025)
+
+Getting Started - Using the M2C2kit Production Server
+
+  1. Login to Metricwire Catalyst | [https://catalyst.metricwire.com/](https://catalyst.metricwire.com/)
+  
+  2. Click on 'Protocol'
+
+  3. Click on 'Cognitive Tasks'
+
+  4. Scroll down to 'Available Task Templates'
+
+  5. Click 'XXXXXX" on the cognitive task you wish to use
+
+  6. In the cognitive task template, scroll down to 'Lock Orientation for Assessment' and lock orientation to 'Portrait'
+
+  7. Scroll back up and click on 'Preview Task'
+
+  8. Please complete the task preview to enable publishing
+
+  9. Click on 'Publish Cognitive Task'
+
+  10. Click on 'Sync Study'
+
+  11. To add your cognitive task into your study, click on 'Protocol' then 'Assessments'
+
+
+
+
+
+Here are the defaults/recommendation for the number of trials:
+
+  - Color Dots: number_of_trials = 5
+ 
+  - Grid Memory: number_of_trials = 4
+
+  - Symbol Search: number_of_trials = 20
+
+  - Color Shapes:  number_of_trials = 12
+    
+  *For Color Shapes ONLY: The default is set at 500 ms, but for older adults with suspected impairments or elevated dementia risk, it is suggested to make this 2000 ms. If you would like to change this, please go to step 11.
+  
+    
+  11. If you would like to change the parameters/defaults, click on 'Source Code' to the right of 'Run Code'
+
+*Note. This only needs to be clicked on if you are changing the number of trials or any other parameters. If you need assistance, please reach out to us.*
+
+Here, you can change the number of trials you wish to use for the cognitive task - locate "number_of_trials" within the source code
+  
+  *For Color Shapes, you also HAVE to update "number_of_different_colors_trials" and can also update "shapes_presented_duration_ms"
+  
+ IMPORTANT:  The suggested default number of trials is 12. The number of trials MUST be an EVEN number. The number_of_different_colors_trials should be ½ the total number of trials (e.g., if number_of_trials = 20, then the number_of_different_colors_trials = 10). Please make sure to also update this parameter.
+The number_of_different_colors_trials parameter is the number of trials where the shapes will change colors from the study phase to the test phase, where the correct answer chosen would be “Different.” The suggested default is 6 for this parameter to coincide with ½ of the number of default trials, which is 12.
+The shapes_presented_duration_ms parameter is how long the shapes are shown in milliseconds. The default is 500 ms, but for older adults with suspected impairments or elevated dementia risk, it is suggested to make this 2000 ms.
+
+
+
+![](images/mw_embedded11.png "Save Task")
+
+
+29. Click the green button in the top right corner to save changes
+
+![](images/mw_embedded23.png "Save Changed")
+
+30. Click the two arrows in the top right corner to sync mobile studies with current changes
+
+![](images/mw_embedded24.png "Sync Mobile Study")
